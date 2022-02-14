@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CSE225</string>
+    <string name="main_qute">"Earning Ethics is a Social Marketing Agency Founded By Mr. Raj Singh Vishain of Dhanbad, Jharkhand, India."</string>
+    <string name="aboutraj">We’ve been helping brands develop and define their voice since
+        2021. The times may have changed, but our love for creativity and problem-solving
+        hasn\'t. We’re driven by technology and innovation to ensure we fulfill our
+        key mission of helping our clients find their successful future. Get in touch so that
+        we can kickstart your branding today.
+        Mr. Raj Singh Vishain is CEO &amp; FOUNDER of EARNING
+        ETHICS. He is a Writer, Motivator, A Digital Marketer, Graphic Designer,
+        Content Creator And A Young Future Entrepreneur. He is From Dhanbad, Jharkhand, India.
+        He is currently Studying Business Administration From Mittal School Of Business.s</string>
+    <string name="para1">Mobile platforms are the number one choice for travel research and booking, with 85% of travelers using a mobile device for booking and 60% using navigation apps during the trip itself.</string>
+
+    <string name="para2">An almost futuristic feature but in fact completely real, your application can include a hotel room control feature that allows guests to, through their smartphone, control all smart devices in the room, from the TV to the air conditioner and others.</string>
+    <string name="para3">Present exclusive rates through the app to reward users that choose to use your service.</string>
+    <string name="para4">Besides getting hotel information, your guests will most likely look for points of interest on their smartphones, as previously established. Instead of letting your users’ attentions wander towards other apps, have an interactive map available in your mobile app that shows the location of nearby points of interest and the route there from the hotel. </string>
+    <string name="para5">If your hotel has activities for your guests – yoga, massages, classes, wine tastings and others –, your app is the best way to promote them. Many of your guests may not even be aware that these activities exist but, through your app, they can find them and even be directly notified based on their interests. </string>
+
+    <string name="our_story">Our Story</string>
+    <string name="raj_singh_vishain">Raj Singh Vishain</string>
+    <string name="get_to_know_us">Get to Know Us</string>
+</resources>
